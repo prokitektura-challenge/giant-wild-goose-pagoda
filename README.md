@@ -16,7 +16,7 @@ To generate the model of the Giant Wild Goose Pagoda you need initially
 * to install the latest version of Prokitektura add-on for Blender from [here](https://github.com/vvoovv/prokitektura-blender/archive/master.zip)
 
 After that,
-* download a zip archive with the latest version of this repository und unpack it
+* download a zip archive with the latest version of this repository from [here](https://github.com/prokitektura-challenge/giant-wild-goose-pagoda/archive/master.zip) und unpack it
 * start Blender and activate _Prokitektura_ tab in the Blender Tool shelf
 * set the path to _main.py_ from the unpacked zip archive in the input field _Rule file_ with the help of the Blender file dialog
 * press _Apply Prokitektura rule_ and in a few instants the model will appear
